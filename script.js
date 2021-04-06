@@ -12,10 +12,11 @@ function getCountries() {
            
 
             console.log(data);
-            $("#Meilleur-Pays").show(data[0]);
-            $("#Pays-2").show(data[1]);
-            $("#Pays-3").show(data[2]);
-            $("#Pays-4").show(data[3]);
+            // $(".btnShowCountries").html(data + "  ");
+             $("#Meilleur-Pays").html(data[0]);
+            $("#Pays-2").html(data[1]);
+            $("#Pays-3").html(data[2]);
+            $("#Pays-4").html(data[3]);
             
 
 

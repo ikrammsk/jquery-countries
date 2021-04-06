@@ -3,7 +3,6 @@ body{
 }
 
 
-
 h4{
 color :coral;
 text-align: center;
@@ -19,8 +18,36 @@ div{
 button{
     text-align: center;
     background-color:coral ;
-    color: crimson;
+    color: beige;
+    font-weight: bold;
     width: 316px;
     height: 106px;
     border-color: tomato;
+
 }
+
+ul{
+    color :coral;
+}
+
+#Meilleur-Pays{
+color: white;
+background-color: red;
+}
+
+
+#Pays-2{
+    color:red;
+    background-color: rgb(3, 61, 3);
+}
+
+#Pays-3{
+    color: white;
+    background-color: green;
+}
+
+#Pays-4{
+    color:yellow;
+    background-color: green;
+}
+
