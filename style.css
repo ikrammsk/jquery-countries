@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+
+
+
+h4{
+color :coral;
+text-align: center;
+
+}
+div{
+    
+    margin-left: 514px;
+    margin-top: 70px;
+
+}
+
+button{
+    text-align: center;
+    background-color:coral ;
+    color: crimson;
+    width: 316px;
+    height: 106px;
+    border-color: tomato;
+}
